@@ -10,7 +10,7 @@ Welcome to {}
 
 You can use me to manage channels with tons of features. Use below buttons to learn more !
 
-By @Developerr_Bots
+By @V_Sbotmaker
     """
 
     # Home Button
@@ -20,12 +20,12 @@ By @Developerr_Bots
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("✨ sᴜᴘᴘᴏʀᴛ ✨", url="https://t.me/Developerr_Bots_Support")],
+        [InlineKeyboardButton("✨ sᴜᴘᴘᴏʀᴛ ✨", url="https://t.me/+B0HHrFLXVEIzN2Y1")],
         [
             InlineKeyboardButton("ʜᴇʟᴘ❔", callback_data="help"),
             InlineKeyboardButton("🎪 ᴀʙᴏᴜᴛ 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("🤖ᴜᴘᴅᴀᴛᴇs", url="https://t.me/Developerr_Bots")],
+        [InlineKeyboardButton("🤖ᴜᴘᴅᴀᴛᴇs", url="https://t.me/VS_bots")],
     ]
 
     # Help Message
@@ -57,5 +57,5 @@ Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @Developerr_Bots
+Developer : @V_Sbotmaker
     """
