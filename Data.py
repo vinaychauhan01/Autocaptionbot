@@ -1,4 +1,4 @@
-from pyrogram.types import InlineKeyboardButton
+ from pyrogram.types import InlineKeyboardButton
 
 
 class Data:
@@ -49,7 +49,7 @@ Alternative Commands
     ABOUT = """
 **About This Bot** 
 
-A telegram channel automation bot by @Developerr_Bots
+A telegram channel automation bot by @VS_bots
 
 
 
