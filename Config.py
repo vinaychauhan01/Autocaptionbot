@@ -17,10 +17,10 @@ if ENVIRONMENT:
         MUST_JOIN = MUST_JOIN.replace("@", "")
 else:
     # Fill the Values
-    API_ID = 0
-    API_HASH = ""
-    BOT_TOKEN = ""
-    DATABASE_URL = ""
+    API_ID = 21518327
+    API_HASH = "e72f588b3e4763f01eecfc3c4aa7e8ac"
+    BOT_TOKEN = "6721031289:AAF2orQmnkkSCJC7Rp7-fSehRaezexSRNtE"
+    DATABASE_URL = "postgres://irnfieon:K-F9J_rI1BgfI9tsoVU_jZ1NvmfABWLF@berry.db.elephantsql.com/irnfieon"
     DATABASE_URL = DATABASE_URL.replace("postgres", "postgresql")
     MUST_JOIN = ""
     if MUST_JOIN.startswith("@"):
