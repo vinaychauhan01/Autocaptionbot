@@ -1,3 +1,4 @@
+from pyrogram.types import InlineKeyboardButton
 
 class Data:
     # Start Message
